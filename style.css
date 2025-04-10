@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 10;
+}
+.logo{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    background-color: rgb(48, 46, 46);
+}
+.hero{
+    text-align: center;
+    font-size: medium;
+}
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #e64a19;  
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
